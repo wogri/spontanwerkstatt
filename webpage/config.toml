@@ -1,0 +1,4 @@
+baseURL = "http://www.spontanwerkstatt.at/"
+languageCode = "de-AT"
+title = "Spontanwerkstatt"
+theme = "agency-wogri"
