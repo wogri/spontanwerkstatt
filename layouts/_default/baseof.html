@@ -5,8 +5,9 @@
     <body id="page-top">
         {{- partial "header.html" . -}}
         <div id="content">
+        {{- partial "navigation.html" . -}}
         {{- block "main" . }}{{- end }}
-        </div>
         {{- partial "footer.html" . -}}
+        </div>
     </body>
 </html>
