@@ -1,5 +1,6 @@
 ---
 draft: false
+title: Datenschutz
 ---
 
 ### Wir schützen Ihre Daten und respektieren Ihre Privatsphäre
