@@ -47,20 +47,21 @@ Ich bin ein Typ mit einer großen Nase. Die Haare werden grau. Alles verfällt. 
     
     <item>
       <title></title>
-      <link>http://www.spontanwerkstatt.at/50_clients/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.spontanwerkstatt.at/50_clients/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>http://www.spontanwerkstatt.at/60_contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.spontanwerkstatt.at/60_contact/</guid>
       <description> Kontakt Wir freuen uns über elektronische Post!   info@spontanwerkstatt.at     </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.spontanwerkstatt.at/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.spontanwerkstatt.at/datenschutz/</guid>
+      <description>Wir schützen Ihre Daten und respektieren Ihre Privatsphäre Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, DSG, TKG, etc.). In diesen Datenschutzinformationen informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.
+Kontakt mit uns Wenn Sie per Formular auf der Website oder per E-Mail Kontakt mit uns aufnehmen, werden Ihre angegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert.</description>
     </item>
     
   </channel>
