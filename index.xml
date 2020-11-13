@@ -64,5 +64,16 @@ Ich bin ein Typ mit einer großen Nase. Die Haare werden grau. Alles verfällt. 
 Kontakt mit uns Wenn Sie per Formular auf der Website oder per E-Mail Kontakt mit uns aufnehmen, werden Ihre angegebenen Daten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert.</description>
     </item>
     
+    <item>
+      <title>Impressum</title>
+      <link>http://www.spontanwerkstatt.at/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.spontanwerkstatt.at/impressum/</guid>
+      <description>Theaterverein Spontanwerkstatt
+Am Bühel 4
+4312 Ried in der Riedmark</description>
+    </item>
+    
   </channel>
 </rss>
