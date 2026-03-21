@@ -1,0 +1,50 @@
+- name: Andrea
+  image: /img/andrea.jpg
+  subtitle: Marlene meint von Andrea
+  description: >-
+    Mit innerer Ruhe und ganz viel Feingefühl bringt Andrea die Geschichten in Fahrt - dabei wird viel gelacht, ab und zu auch mal laut gekreischt, leidenschaftlich geliebt und getötet.
+
+- name: Bernhard
+  image: /img/bernhard.jpg
+  subtitle: Martyna meint von Bernhard
+  description: >-
+    Bernhard ist ein wahnsinnig vielseitiger Impro Spieler der eine Eloquenz an den Tag legt die seinesgleichen sucht!
+
+- name: Birgit
+  image: /img/birgit.jpg
+  subtitle: Mario meint von Birgit
+  description: |-
+    Sie glänzt auf der Bühne,<br />
+    ihr Lächeln betört,<br />
+    ihre Lust am Leben,<br />
+    Man(n) kann sie spüren.<br />
+
+- name: Mario
+  image: /img/mario.jpg
+  subtitle: Andrea meint von Mario
+  description: >-
+    Ein Mann der schnell Nägel mit Köpfen machen kann und uns beim Impro spielen immer wieder neue (absurde) Möglichkeiten zeigt, an die wir nie gedacht hätten.
+
+- name: Marlene
+  image: /img/marlene.jpg
+  subtitle: Wolfgang meint von Marlene
+  description: >-
+    Marlene ist auf der Bühne so vielseitig wie ein Schweizer Messer. Sie kann die Ruhe selbst ausstrahlen und im nächsten Moment wortgewaltig explodieren.
+
+- name: Martyna
+  image: /img/martyna.jpg
+  subtitle: Bernhard meint von Martyna
+  description: >-
+    Eine Science Poetry Slammerin mit einem großartigen Gespür um einer Story eine gewisse Würze zu verschaffen!
+
+- name: Sarah
+  image: /img/sarah.jpg
+  subtitle: Birgit meint von Sarah
+  description: >-
+    Sarah ist die Geheimwaffe der Spontanwerkstatt, was das Singen betrifft. Wenn sie ihre Stimme zum Klingen bringt, schweigen wir alle in Ehrfurcht.
+
+- name: Wolfgang
+  image: /img/wolfgang.jpg
+  subtitle: Sarah meint von Wolfgang
+  description: >-
+    Mit viel Leichtigkeit, einem großen Selbstverständnis und einer bewundernswerten Liebe zu Technik entstehen durch Wolfgang raffinierte Geschichten, die unter die Haut gehen.
