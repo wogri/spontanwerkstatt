@@ -1,3 +1,6 @@
 baseURL = "http://www.spontanwerkstatt.at/"
-languageCode = "de-AT"
+locale = "de-AT"
 title = "Spontanwerkstatt"
+
+[security]
+  allowContent = ['^text/html$', '^text/markdown$']
