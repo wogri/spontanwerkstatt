@@ -10482,3 +10482,30 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+css.event-liste {
+  max-width: 600px;
+  margin-bottom: 30px;
+}
+.event-item {
+  display: flex;
+  align-items: center;
+  background: #f9f9f9;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 6px;
+  border-left: 4px solid #e67e22; /* Schöner Farbstreifen links */
+}
+.event-datum {
+  font-weight: bold;
+  background: #34495e;
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 4px;
+  margin-right: 15px;
+  white-space: nowrap;
+}
+.event-details p {
+  margin: 5px 0 0 0;
+  color: #666;
+  font-size: 0.9em;
+}
